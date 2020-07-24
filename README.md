@@ -1,4 +1,6 @@
 # PAPA - Pega Alerts Python Analyzer
+[![CodeFactor](https://www.codefactor.io/repository/github/mishankov/pega-alerts-python-analyzer/badge)](https://www.codefactor.io/repository/github/mishankov/pega-alerts-python-analyzer)
+
 Pega Alert logs analyzer written in Python 
 
 ## How to
