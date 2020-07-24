@@ -1,4 +1,4 @@
-from .html_templates import *
+from .html_templates import MAIN_INFO_TEMPLATE, DETAIL_LIST_TEMPLATE, STATS_TEMPLATE, HTML_TEMPLATE
 
 
 def generate_sql_report(file_names):
