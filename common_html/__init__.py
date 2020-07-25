@@ -1,1 +1,1 @@
-from .common_html import HTML_TEMPLATE, MAIN_INFO_TEMPLATE, DETAIL_LIST_TEMPLATE, STATS_TEMPLATE
+from .common_html import HTML_STYLE
